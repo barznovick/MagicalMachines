@@ -1,0 +1,3 @@
+author = barznovick
+version = 0.1
+displayName = Magical MAchines
